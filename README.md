@@ -37,13 +37,17 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 
 5: Wait a short bit, when your game freezes that means its injecting
 
-6: after the game unfreezes, Look to your top-left and enable  *Show Advanced Menu*
+6: after the game unfreezes. Look to your top-left and enable  *Show Advanced Menu*
 
 7: Scroll down and you'll see a "PAYDAY3 VR" tab pop up, configure your settings there
 
-8: after your done, close the menu by pressing  down on both joyticks and start playing
+(If you don't see the PAYDAY3 VR tab, go into Lua Loader ---> Main --> Check RigHandler.lua)
 
 (Wait 2-3 seconds after injecting if your weapon animations are not calibrated, if it is not calibrated then the script will automatically swap weapons and initiate reloads, do not interfere)
+
+8: after your done, close the menu by pressing  down on both joyticks and start playing
+
+
 
 (Note: If you restart heists, you need to reset scripts through Lua Loader --> Main --> Reset Scripts)
 
