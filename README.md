@@ -50,3 +50,5 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 (This project uses my modified fork of JoeyHodge's UEVR fork, which is based on Praydog's UEVR.)
 
 (uses  a forked version of jbusfield's uevrlib)
+
+**(fan-made UEVR profile, not affiliated with Starbreeze/Overkill)**
