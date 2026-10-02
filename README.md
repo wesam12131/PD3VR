@@ -1,5 +1,6 @@
 # PD3VR-Mod
-This mod brings PAYDAY 3 VR to life
+This profile utilizes UEVR's powerful injector to make Payday 3 VR support possible
+(Please expect bugs. I am always trying my best to solve them but I am only one person working on this and I have responsibilities)
 
 ## Features
 * Inverse Kinematics (IK)
@@ -8,7 +9,9 @@ This mod brings PAYDAY 3 VR to life
 
 * Weapon slot system 
 
-* animations
+* Throwables Support
+
+* Animations support
 
 * Two-handed weapon handling  
 
