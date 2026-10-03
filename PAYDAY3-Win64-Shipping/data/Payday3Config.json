@@ -1,0 +1,10 @@
+{
+    "AutoChamber": false,
+    "AutoReload": false,
+    "BodyVisibility": false,
+    "DistanceBetweenSlots": 4.800000190734863,
+    "HandCoupling": "Experimental",
+    "PreferredAimMode": 5,
+    "PreferredHand": 1,
+    "PreferredMovementOrientation": 2
+}

@@ -1,0 +1,281 @@
+{
+    "65a613cc-c5e8-4cdc-a488-06e593eca416": {
+        "animation_location_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "animation_mesh": "Custom",
+        "animation_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mesh": "Custom",
+        "mesh_location_offset": [
+            0.0,
+            0.0,
+            -93.5
+        ],
+        "mesh_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "show_debug_meshes": false,
+        "solvers": {
+            "4d060d63-de9b-43d9-b626-46bf03d2f99a": {
+                "active": true,
+                "allow_stretch": true,
+                "allow_wrist_affects_elbow": true,
+                "end_bone": "RightHand",
+                "end_bone_offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "end_bone_rotation": [
+                    180.0,
+                    -90.0,
+                    0.0
+                ],
+                "end_control_type": 1,
+                "joint_bone": "RightForeArm",
+                "label": "Right",
+                "max_stretch_scale": 0.0,
+                "smoothing": 0,
+                "solver_type": 1,
+                "sort_order": 1,
+                "start_bone": "RightArm",
+                "start_stretch_ratio": 0.0,
+                "twist_bones": [
+                    {
+                        "bone": "RightForeArmTwist1",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "RightForeArmTwist2",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "RightForeArmTwist3",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    }
+                ],
+                "wrist_bone": "RightHand",
+                "wrist_twist_influence": 0.3499999940395355,
+                "wrist_twist_max": 75.0
+            },
+            "c2441329-cef3-404b-b63e-91ea9c4bf694": {
+                "active": true,
+                "allow_stretch": false,
+                "allow_wrist_affects_elbow": true,
+                "end_bone": "LeftHand",
+                "end_bone_offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "end_bone_rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "end_control_type": 0,
+                "joint_bone": "LeftForeArm",
+                "label": "Left",
+                "max_stretch_scale": 0.0,
+                "smoothing": 0.0,
+                "solver_type": 1,
+                "sort_order": 2,
+                "start_bone": "LeftArm",
+                "start_stretch_ratio": 0.03400000184774399,
+                "twist_bones": [
+                    {
+                        "bone": "LeftForeArmTwist1",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "LeftForeArmTwist2",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "LeftForeArmTwist3",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    }
+                ],
+                "wrist_bone": "LeftHand",
+                "wrist_twist_influence": 0.18400000035762787,
+                "wrist_twist_max": 75.0
+            }
+        }
+    },
+    "9a8bdf80-37a6-4193-853f-33a1631de0e4": {
+        "animation_location_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "animation_mesh": "",
+        "animation_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mesh": "",
+        "mesh_location_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mesh_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "show_debug_meshes": false
+    },
+    "_profileLabels": {
+        "65a613cc-c5e8-4cdc-a488-06e593eca416": "Duplicate Profile",
+        "9a8bdf80-37a6-4193-853f-33a1631de0e4": "New Profile",
+        "default": "Default"
+    },
+    "_profileState": {
+        "currentEditingProfile": "default"
+    },
+    "default": {
+        "animation_location_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "animation_mesh": "Custom",
+        "animation_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mesh": "Custom",
+        "mesh_location_offset": [
+            0.0,
+            0.0,
+            -93.5
+        ],
+        "mesh_rotation_offset": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "show_debug_meshes": false,
+        "solvers": {
+            "4d060d63-de9b-43d9-b626-46bf03d2f99a": {
+                "active": true,
+                "allow_stretch": false,
+                "allow_wrist_affects_elbow": true,
+                "end_bone": "RightHand",
+                "end_bone_offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "end_bone_rotation": [
+                    180.0,
+                    -90.0,
+                    0.0
+                ],
+                "end_control_type": 1,
+                "joint_bone": "RightForeArm",
+                "label": "Right",
+                "max_stretch_scale": 0.0,
+                "smoothing": 0,
+                "solver_type": 1,
+                "sort_order": 1,
+                "start_bone": "RightArm",
+                "start_stretch_ratio": 0.0,
+                "twist_bones": [
+                    {
+                        "bone": "RightForeArmTwist1",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "RightForeArmTwist2",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "RightForeArmTwist3",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    }
+                ],
+                "wrist_bone": "RightHand",
+                "wrist_twist_influence": 0.20100000500679016,
+                "wrist_twist_max": 75.0
+            },
+            "c2441329-cef3-404b-b63e-91ea9c4bf694": {
+                "active": true,
+                "allow_stretch": false,
+                "allow_wrist_affects_elbow": true,
+                "end_bone": "LeftHand",
+                "end_bone_offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "end_bone_rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "end_control_type": 0,
+                "joint_bone": "LeftForeArm",
+                "label": "Left",
+                "max_stretch_scale": 0.0,
+                "smoothing": 0.0,
+                "solver_type": 1,
+                "sort_order": 2,
+                "start_bone": "LeftArm",
+                "start_stretch_ratio": 0.03400000184774399,
+                "twist_bones": [
+                    {
+                        "bone": "LeftForeArmTwist1",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "LeftForeArmTwist2",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    },
+                    {
+                        "bone": "LeftForeArmTwist3",
+                        "pitch": 0.0,
+                        "roll": 0.0,
+                        "yaw": 0.0
+                    }
+                ],
+                "wrist_bone": "LeftHand",
+                "wrist_twist_influence": 0.20000000298023224,
+                "wrist_twist_max": 75.0
+            }
+        }
+    }
+}

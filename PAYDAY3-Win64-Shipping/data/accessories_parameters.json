@@ -1,0 +1,58 @@
+{
+    "accessories": {
+        "BP_RangedWeapon_AssaultRifle_CAR4_C_SkeletalMesh": {
+            "c7d1415a-9e04-450b-89cc-e0263a8b251a": {
+                "label": "New Accessory",
+                "markers": [
+                    {
+                        "activation_distance": 0.0,
+                        "activation_hand": 1,
+                        "attach_type": 1,
+                        "end_time": 3.4000000953674316,
+                        "grip_animation": "",
+                        "grip_priority": 1,
+                        "location": [
+                            0.0,
+                            0.4000000059604645,
+                            0.0
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "socket_name": "DynIK_LeftHand",
+                        "start_time": 0.0
+                    }
+                ]
+            }
+        },
+        "BP_RangedWeapon_Pistol_S40_C_SkeletalMesh_2147473729": {
+            "c7d6dc55-6096-413f-b941-6e11623b4b6b": {
+                "label": "New Accessory",
+                "markers": [
+                    {
+                        "activation_distance": 0.0,
+                        "activation_hand": 1,
+                        "attach_type": 0,
+                        "end_time": 0.0,
+                        "grip_animation": "",
+                        "grip_priority": 1,
+                        "location": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "socket_name": "",
+                        "start_time": 0.0
+                    }
+                ]
+            }
+        }
+    }
+}

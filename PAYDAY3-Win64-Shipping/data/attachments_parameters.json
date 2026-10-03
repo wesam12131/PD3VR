@@ -1,0 +1,48 @@
+{
+    "attachmentOffsets": [
+        {
+            "any_child": false,
+            "any_parent": false,
+            "child": "MotionControllerComponent",
+            "id": "Actor_MotionControllerComponent",
+            "location": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "melee": false,
+            "parent": "Actor",
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "scoped": false,
+            "two_handed": false,
+            "use_laser": false
+        }
+    ],
+    "baseOffsets": {
+        "location": [
+            0,
+            0,
+            0
+        ],
+        "rotation": [
+            0,
+            0,
+            0
+        ],
+        "scale": [
+            1,
+            1,
+            1
+        ]
+    },
+    "stripParentNameNumericSuffix": false
+}

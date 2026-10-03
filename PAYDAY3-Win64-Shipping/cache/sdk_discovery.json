@@ -1,0 +1,131 @@
+{
+  "entries": {
+    "frendertarget_vtable_indices": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160217088,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 290360168,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134345498071077751
+      },
+      "payload": {
+        "display_gamma_index": 6,
+        "render_target_texture_index": 2
+      }
+    },
+    "frhitexture_get_native_resource": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160214528,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 1364091180,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134353454609456753
+      },
+      "payload": {
+        "vtable_index": 4
+      }
+    },
+    "fscene_offsets": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160214528,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 1364091180,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134353454609456753
+      },
+      "payload": {
+        "frame_count_offset": 20692,
+        "get_frame_count_vtable_index": 32,
+        "increment_frame_count_vtable_index": 31,
+        "start_frame_vtable_index": 30
+      }
+    },
+    "fsceneview_constructor": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160214528,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 1364091180,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134353454609456753
+      },
+      "payload": {
+        "rva": 57502896
+      }
+    },
+    "fsceneviewfamily_offsets": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160214528,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 1364091180,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134353454609456753
+      },
+      "payload": {
+        "render_target_offset": 48,
+        "scene_interface_offset": 64,
+        "views_offset": 8
+      }
+    },
+    "ftexture_render_target_resource_vtable_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160217088,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 290360168,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134345498071077751
+      },
+      "payload": {
+        "offset": 80
+      }
+    },
+    "ftexture_rhi_resource_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160217088,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 290360168,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134345498071077751
+      },
+      "payload": {
+        "offset": 16
+      }
+    },
+    "utexture_render_resource_offset": {
+      "module": {
+        "engine_version": "",
+        "file_size": 160217088,
+        "image_size": 166789120,
+        "path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\PAYDAY3\\PAYDAY3\\Binaries\\Win64\\PAYDAY3-Win64-Shipping.exe",
+        "time_date_stamp": 290360168,
+        "version_ls": 262144,
+        "version_ms": 327685,
+        "write_time": 134345498071077751
+      },
+      "payload": {
+        "offset": 280
+      }
+    }
+  },
+  "schema_version": 1
+}

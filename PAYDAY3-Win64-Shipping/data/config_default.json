@@ -1,0 +1,13 @@
+{
+    "uevr_ik_animation_mesh": "Custom",
+    "uevr_ik_animation_mesh_combo": 1,
+    "uevr_ik_mesh_combo": 1,
+    "uevr_input_headBoneName": "Hips",
+    "uevr_input_rootBoneName": "Reference",
+    "uevr_pawn_hideSettingsHiddenInGame": false,
+    "uevr_pawn_hideSettingsHiddenInGamePropagate": false,
+    "uevr_pawn_hideSettingsRenderInDepthPass": false,
+    "uevr_pawn_hideSettingsRenderInMainPass": true,
+    "uevr_pawn_hideSettingsVisibility": false,
+    "uevr_pawn_hideSettingsVisibilityPropagate": false
+}

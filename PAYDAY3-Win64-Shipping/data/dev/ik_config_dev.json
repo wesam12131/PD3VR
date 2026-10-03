@@ -1,0 +1,77 @@
+{
+    "uevr_ik_active": true,
+    "uevr_ik_active_profile": 2,
+    "uevr_ik_allow_stretch": false,
+    "uevr_ik_allow_wrist_affects_elbow": true,
+    "uevr_ik_animation_location_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_ik_animation_mesh_combo": 8,
+    "uevr_ik_animation_mesh_combo_show_children": false,
+    "uevr_ik_animation_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_ik_end_bone": "RightHand",
+    "uevr_ik_end_bone_combo": 57,
+    "uevr_ik_end_bone_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_ik_end_bone_rotation": [
+        180.0,
+        -90.0,
+        0.0
+    ],
+    "uevr_ik_end_control_type": 2,
+    "uevr_ik_joint_bone": "RightForeArm",
+    "uevr_ik_joint_bone_combo": 56,
+    "uevr_ik_label": "Right",
+    "uevr_ik_lower_twist_bone_1": "RightForeArmTwist1",
+    "uevr_ik_lower_twist_bone_1_combo": 85,
+    "uevr_ik_lower_twist_bone_2": "RightForeArmTwist2",
+    "uevr_ik_lower_twist_bone_2_combo": 92,
+    "uevr_ik_lower_twist_bone_3": "RightForeArmTwist3",
+    "uevr_ik_lower_twist_bone_3_combo": 87,
+    "uevr_ik_lower_twist_bone_pitch_1": 0.0,
+    "uevr_ik_lower_twist_bone_pitch_2": 0.0,
+    "uevr_ik_lower_twist_bone_pitch_3": 0.0,
+    "uevr_ik_lower_twist_bone_roll_1": 0.0,
+    "uevr_ik_lower_twist_bone_roll_2": 0.0,
+    "uevr_ik_lower_twist_bone_roll_3": 0.0,
+    "uevr_ik_lower_twist_bone_yaw_1": 0.0,
+    "uevr_ik_lower_twist_bone_yaw_2": 0.0,
+    "uevr_ik_lower_twist_bone_yaw_3": 0.0,
+    "uevr_ik_max_stretch_scale": 0.0,
+    "uevr_ik_mesh": "Custom",
+    "uevr_ik_mesh_combo": 8,
+    "uevr_ik_mesh_combo_show_children": false,
+    "uevr_ik_mesh_location_offset": [
+        0.0,
+        0.0,
+        -93.5
+    ],
+    "uevr_ik_mesh_rotation_offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "uevr_ik_rename_profile_input": "Default",
+    "uevr_ik_rig_label": "",
+    "uevr_ik_show_debug_meshes": false,
+    "uevr_ik_smoothing": 0,
+    "uevr_ik_solver_select": 1,
+    "uevr_ik_solver_type": 1,
+    "uevr_ik_sort_order": 1,
+    "uevr_ik_start_bone": "RightArm",
+    "uevr_ik_start_bone_combo": 55,
+    "uevr_ik_start_stretch_ratio": 0.0,
+    "uevr_ik_wrist_bone": "RightHand",
+    "uevr_ik_wrist_bone_combo": 57,
+    "uevr_ik_wrist_twist_influence": 0.20100000500679016,
+    "uevr_ik_wrist_twist_max": 75.0
+}

@@ -1,0 +1,25 @@
+{
+"Lua.workspace.library": [
+    "D:/SteamLibrary/steamapps/common/PAYDAY3/PAYDAY3/Binaries/Win64/Mods/NewMod",
+    "D:/SteamLibrary/steamapps/common/PAYDAY3/PAYDAY3/Binaries/Win64/Mods/Shared",
+    "C:/Users/xWesa/AppData/Roaming/UnrealVRMod/PAYDAY3-Win64-Shipping/scripts"
+],
+
+"Lua.runtime.path": [
+    "?.lua",
+    "?/init.lua",
+],
+
+
+
+    "Lua.misc.parameters": [
+        "--develop=true",
+        "--dbgport=11428"
+    ],
+
+    "Lua.diagnostics.disable": [
+        "need-check-nil",
+        "undefined-field"
+    ],
+    "Lua.completion.requireSeparator": "/"
+}
