@@ -1,7 +1,7 @@
 # PD3VR-Mod
 This profile utilizes UEVR's powerful injector to make Payday 3 VR support possible
 
-I'd like to point out the fact that this is very very WIP, I expect a ton of bugs and so should you. I do my best to add features and mitigate issues when I have enough free time so please be patient)
+(I'd like to point out the fact that this is very very WIP, I expect a ton of bugs and so should you. I do my best to add features and mitigate issues when I have enough free time so please be patient)
 
 ## Features
 * Inverse Kinematics (IK)
