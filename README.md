@@ -44,11 +44,11 @@ Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD
 
 (If your on a non steam version of payday 3, rename the profile to the payday 3 executable name located in your PAYDAY3\Binaries\Win64)
 
-4: Press Yes when it prompts you that it has DLLs. I plan to open source them aswell but they're mostly vibe-coded utility functions because lua can't do these functions
+4: Press Yes when it prompts you that it has DLLs. I plan to open source them aswell but they're mostly vibe-coded utility functions because lua can't do
 
-5: Launch the game 
+5: Launch the game  and join a heist
 
-6: Choose the payday 3 executable from the dropdown menu and press Inject after the game finishes the loading screen
+6: Choose the payday 3 executable from the dropdown menu and press Inject
 
 5: Wait a short bit, when your game freezes that means its injecting
 
