@@ -67,6 +67,9 @@ Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD
 (Each heist start/restart you will need to head to the UEVR menu --> head to the section Lua Loader --> Scripts --> Reset scripts)
 
 ## FAQ:
+Q: My controllers don't work
+
+A: Are you on a steam frame? My fork of joey's hodge wasn't updated up to that and I hope to do that when I get more time after I release 1.2.0
 
 Q: How do I grab my primary?
 
