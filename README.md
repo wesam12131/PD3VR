@@ -27,6 +27,7 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 
 ----------
 Legend for beginners:
+
 Injector: Referring to PD3UEVRInjector (https://github.com/wesam12131/PD3VR-UEVR-Injector)
 
 Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD3VR/releases)
