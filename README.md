@@ -1,6 +1,8 @@
 # PD3-UEVR-Profile
 This profile utilizes UEVR's powerful injector to make Payday 3 VR support possible
 
+(FAQ introduced below)
+
 (I'd like to point out the fact that this is very very WIP, I expect a ton of bugs and so should you. I do my best to add features and mitigate issues when I have enough free time so please be patient)
 
 ## Features
@@ -63,6 +65,24 @@ Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD
 8: after your done, close the menu by pressing  down on both joyticks and start playing
 
 (Each heist start/restart you will need to head to the UEVR menu --> head to the section Lua Loader --> Scripts --> Reset scripts)
+
+## FAQ:
+
+Q: How do I grab my primary?
+
+A: grip the back of your head once
+
+Q:My camera spins like crazy 
+
+A: Enable righandler.lua or disable then renable it
+
+Q: My camera doesn't follow where I'm pointing
+
+A: head to Lua loader --> PD3VR --> Change Movement orientation from the default (UEVR is default, in which it defaults to the game's) to something like HMD or controllers
+
+Q: I encountered a bug, how do I report it?
+
+A: I have a thread in FLAT2VR's server under #UE-Games, or DM me at @._wesam
 
 # Credits:
 (This project uses my modified fork of JoeyHodge's UEVR fork, which is based on Praydog's UEVR.)
