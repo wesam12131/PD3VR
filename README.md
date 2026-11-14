@@ -26,14 +26,18 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 --------
 
 ----------
-1: Extract the profile, place it into '%appdata%/UnrealVRMod' (Create if needed)
-(If your on a non steam version of payday 3, rename the profile to the payday 3 executable name located in your PAYDAY3\Binaries\Win64
+1: Install and unzip  the forked injector over at https://github.com/wesam12131/PD3VR-UEVR-Injector
+2: Install the desired profile version at https://github.com/wesam12131/PD3VR/releases
 
-2: Launch the game and start a heist
+3: open the forked injector's exe, then press "import config" at the left-side menu and double click on the newly installed profile named PAYDAY3-Win64-Shipping
 
-3: Open the UEVR Injector
+(If your on a non steam version of payday 3, rename the profile to the payday 3 executable name located in your PAYDAY3\Binaries\Win64)
 
-4: Choose the payday 3 executable from the dropdown menu and press Inject
+4: Press Yes when it prompts you that it has DLLs. I plan to open source them aswell but they're mostly vibe-coded utility functions because lua can't do these functions
+
+5: Launch the game 
+
+6: Choose the payday 3 executable from the dropdown menu and press Inject after the game finishes the loading screen
 
 5: Wait a short bit, when your game freezes that means its injecting
 
@@ -41,15 +45,13 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 
 7: Scroll down and you'll see a "PAYDAY3 VR" tab pop up, configure your settings there
 
-(If you don't see the PAYDAY3 VR tab, go into Lua Loader ---> Main --> Check RigHandler.lua)
+(If you don't see the PAYDAY3 VR tab, go into Lua Loader ---> Main --> Check the box of RigHandler.lua)
 
-(Wait 2-3 seconds after injecting if your weapon animations are not calibrated, if it is not calibrated then the script will automatically swap weapons and initiate reloads, do not interfere)
+(If you hear weapon swapping/reloading sounds almost right after enabling scripts/injection then wait for it to full finish because its calibrating animations)
 
 8: after your done, close the menu by pressing  down on both joyticks and start playing
 
-
-
-(Note: If you restart heists, you need to reset scripts through Lua Loader --> Main --> Reset Scripts)
+The script automatically initializes VR when a heist is started/restarted so you don't have to interfere unless it errors, in which case you should report the bug and press "Reset scripts"
 
 # Credits:
 (This project uses my modified fork of JoeyHodge's UEVR fork, which is based on Praydog's UEVR.)
