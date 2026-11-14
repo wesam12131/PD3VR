@@ -62,7 +62,7 @@ Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD
 
 8: after your done, close the menu by pressing  down on both joyticks and start playing
 
-The script automatically initializes VR when a heist is started/restarted so you don't have to interfere unless it errors, in which case you should report the bug and press "Reset scripts"
+(Each heist start/restart you will need to head to the UEVR menu --> head to the section Lua Loader --> Scripts --> Reset scripts)
 
 # Credits:
 (This project uses my modified fork of JoeyHodge's UEVR fork, which is based on Praydog's UEVR.)
