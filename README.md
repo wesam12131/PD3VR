@@ -79,7 +79,7 @@ Q:My camera spins like crazy
 
 A: Enable righandler.lua or disable then renable it
 
-Q: My camera doesn't follow where I'm pointing
+Q: My camera/body doesn't follow where I'm heading
 
 A: head to Lua loader --> PD3VR --> Change Movement orientation from the default (UEVR is default, in which it defaults to the game's) to something like HMD or controllers
 
