@@ -27,6 +27,7 @@ This profile utilizes UEVR's powerful injector to make Payday 3 VR support possi
 
 ----------
 1: Install and unzip  the forked injector over at https://github.com/wesam12131/PD3VR-UEVR-Injector
+
 2: Install the desired profile version at https://github.com/wesam12131/PD3VR/releases
 
 3: open the forked injector's exe, then press "import config" at the left-side menu and double click on the newly installed profile named PAYDAY3-Win64-Shipping
