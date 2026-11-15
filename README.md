@@ -48,21 +48,23 @@ Profile:  referring to PAYDAY3-Win64-Shipping  (https://github.com/wesam12131/PD
 
 4: Press Yes when it prompts you that it has DLLs. I plan to open source them aswell but they're mostly vibe-coded utility functions because lua can't do
 
-5: Launch the game  and join a heist
+5: Launch the game 
+6: Go into settings and ensure you've turned the controller keybinds to Legacy, much better control for VR unless you want to make your own settings.
+7:  join a heist
 
-6: Choose the payday 3 executable from the dropdown menu and press Inject
+8: Choose the payday 3 executable from the dropdown menu and press Inject
 
-5: Wait a short bit, when your game freezes that means its injecting
+9: Wait a short bit, when your game freezes that means its injecting
 
-6: after the game unfreezes. Look to your top-left and enable  *Show Advanced Menu*
+10: after the game unfreezes. Look to your top-left and enable  *Show Advanced Menu*
 
-7: Scroll down and you'll see a "PAYDAY3 VR" tab pop up, configure your settings there
+11: Scroll down and you'll see a "PAYDAY3 VR" tab pop up, configure your settings there
 
 (If you don't see the PAYDAY3 VR tab, go into Lua Loader ---> Main --> Check the box of RigHandler.lua)
 
 (If you hear weapon swapping/reloading sounds almost right after enabling scripts/injection then wait for it to full finish because its calibrating animations)
 
-8: after your done, close the menu by pressing  down on both joyticks and start playing
+12: after your done, close the menu by pressing  down on both joyticks and start playing
 
 (Each heist start/restart you will need to head to the UEVR menu --> head to the section Lua Loader --> Scripts --> Reset scripts)
 
